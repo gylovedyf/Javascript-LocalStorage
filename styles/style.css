@@ -1,0 +1,19 @@
+
+form {
+    float:left;
+    
+}
+table {
+    border:1px solid;
+    float:right;
+    margin:10px;
+}
+table th,
+table td {
+    border: 1px solid;
+    border-collapse: collapse;
+    padding:5px 20px;
+}
+input {
+    margin-right: 10px;
+}
